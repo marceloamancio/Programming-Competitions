@@ -1,2 +1,2 @@
 # acm_uva
-Solution to UVa Online Judge problems in Python
+Solution to UVa Online Judge problems in Python.
