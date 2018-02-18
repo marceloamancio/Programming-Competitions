@@ -29,10 +29,7 @@ if __name__ == '__main__':
                     dp_i = dep_r[-1][1]
                     del dep_r[-1]
 
-            #apply depreciarion
             car_price = car_price * (1-dp_i)
-
-            #calc loan
             if i!=0:
                 lo -= monthly_pay
 
