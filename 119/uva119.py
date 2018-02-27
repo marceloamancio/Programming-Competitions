@@ -34,4 +34,3 @@ if __name__ == '__main__':
             print(name,m_netv[name])
 
         n_line = stdin.readline()
-    None
